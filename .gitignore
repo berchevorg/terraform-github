@@ -2,4 +2,8 @@
 georgiman.env
 terraform.tfstate
 terraform.tfstate.backup
-
+testing.tfvars
+vendor/
+Gemfile.lock
+.kitchen/
+.bundle/
