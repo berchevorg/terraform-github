@@ -29,7 +29,7 @@ Guideline on HOW to create github repo with terraform
   - delete_repo
 - Cleck **Generate token**
 - **ATTENTION**: Make sure to copy your new personal access token once created. You won’t be able to see it again! 
-- Make sure you add your githubtoken information to `<file>.env`. For more information take a look at **Files** section
+- Make sure you add your github token information to `<file>.env`. For more information take a look at **Files** section
 
 ## Installing Terraform
 - Download required package from [here](https://www.terraform.io/downloads.html)
